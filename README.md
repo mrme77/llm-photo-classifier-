@@ -129,7 +129,7 @@ Then open http://127.0.0.1:5500 in your browser.
 - Use arrow keys or buttons to navigate
 - Progress is auto-saved
 
-![Validation UI](Screenshot%202025-12-27%20at%209.03.09%20AM.png)
+![Validation UI](validation-ui-screenshot.png)
 
 ### 3. Organize Photos
 
