@@ -1,0 +1,60 @@
+# Photo and Video Directories
+pictures/
+videos/
+classified_photos/
+
+# Python Virtual Environment
+iphone-project/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Python Testing & Linting
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Data Files
+*.csv
+*.txt
+*.log
+
+# Markdown files (except README.md)
+*.md
+!README.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
