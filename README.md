@@ -146,6 +146,7 @@ This creates `classified_photos/` with subfolders for each category.
 Iphone16Pictures/
 ├── README.md                          # This file
 ├── LICENSE                            # MIT License
+├── .gitignore                         # Git exclusions
 ├── classify_with_llava.py             # Main classification script
 ├── label_app.py                       # Gradio validation UI
 ├── organize_photos.sh                 # Bash script to organize by category
