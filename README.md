@@ -244,6 +244,8 @@ MIT License - see [LICENSE](LICENSE) file
 
 **Pasquale Salomone**
 
+Read the article: [Beyond the Hype: Running Large Language Models Locally to Solve Real Problems](https://medium.com/@psalomone33/beyond-the-hype-running-large-language-models-locally-to-solve-real-problems-02e806430f04)
+
 ## Acknowledgments
 
 - **LLaVA** - Large Language and Vision Assistant
